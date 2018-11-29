@@ -15,3 +15,4 @@ proportionofrolls<-function(Rolls=100,DiceSum=c(3,10,11)){
 
 # adding a comment
 # just for fun
+# test
