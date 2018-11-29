@@ -12,3 +12,6 @@ proportionofrolls<-function(Rolls=100,DiceSum=c(3,10,11)){
   proportionrolls<-sum(vectout)/Rolls
   return(proportionrolls)
 }
+
+# adding a comment
+# just for fun
